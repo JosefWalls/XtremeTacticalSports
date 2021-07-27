@@ -1,0 +1,34 @@
+.homestory {
+    height: 55vh;
+    background: linear-gradient(180deg, black, rgb(12, 12, 12), black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homestory__inner {
+    /* border: 3px solid white; */
+    width: 75%;
+    height: 75%;
+}
+
+.homestory__inner header {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+    /* text-decoration: underline white 1px px; */
+}
+
+.homestory__inner p {
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-bottom: 2vw;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
