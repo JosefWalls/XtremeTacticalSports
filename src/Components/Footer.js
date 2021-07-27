@@ -33,7 +33,8 @@ function Footer(){
                         <h2>Social</h2>
                     </span>
                     <div className="footer__right__images">
-
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
+                        <img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"/>
                     </div>
                 </div>
             </div>

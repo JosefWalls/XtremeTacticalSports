@@ -37,8 +37,20 @@
     justify-content: center;
 }
 
-.footer__right span {
+.footer__right {
     display: flex;
-    justify-content: flex-end;
+    align-items: flex-end;
+    justify-content: flex-start;
+    flex-direction: column;
     color: white;
+}
+
+.footer__right__images {
+    width: 100%;
+}
+
+.footer__right__images img{
+    /* height: 100%; */
+    width: 50%;
+    object-fit: contain;
 }
