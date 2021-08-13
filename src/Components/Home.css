@@ -1,0 +1,24 @@
+.home__homeCategories {
+    background: rgba(233, 233, 233, 0.329);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.home_Distrubitors {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.home_Cataloug {
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(187, 0, 0);
+    color: white;
+  }

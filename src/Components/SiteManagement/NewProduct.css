@@ -1,0 +1,117 @@
+.addNew {
+    padding-top: 10vh;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.addNew__textInformation, .addNew__photoManagement {
+    display: flex;
+    justify-content: center;
+    align-content: center;   
+    padding: 10px;
+    width: 90%;
+}
+
+.addNew__textInformation__InnerContainer, .addNew__photoManagement__InnerContainer, .addNew__variantsCard, .addNew__categorySelection__InnerContainer {
+    border: 1px solid rgba(0, 0, 0, 0.205);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    overflow: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.addNew__textInformation__InnerContainer input{
+    width: 100%;
+    height: 45px;
+    outline-width: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+
+#productDescriptionField {
+    min-height: 100px;
+    text-align: start;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addNew__photoManagement__InnerContainer {
+    display: flex;
+}
+
+.addNew__photoManagement span {
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    padding: 5px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.addNew__mainImage {
+    border: 1px solid rgba(0, 0, 0, 0.205);
+    margin: 5px;
+    width: 35%;
+    height: 25vh;
+}
+
+.addNew__mainImage img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.addNew__allProducts {
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addNew__allProducts img  {
+    border: 1px solid rgba(0, 0, 0, 0.068);
+    width: 25%;
+    height: 50%;
+    object-fit: contain;
+}
+
+.addNew__variantsForm {
+    display: flex;
+    align-items: center;
+}
+
+.addNew__variantsForm input {
+    text-align: center;
+    outline-width: 0;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.addNew button {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+}
+
+.addNew__variants {
+    display: flex;
+    flex-direction: column;
+}
+
+.addNew__variants div {
+    display: flex; 
+    justify-content: space-evenly;
+    align-content: center;   
+}
+
+#ProductCategorySelection {
+    font-weight: 700;
+}
+
+.addNew__categorySelection__InnerContainer h3 {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}

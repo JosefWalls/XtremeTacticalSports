@@ -1,0 +1,23 @@
+.vendors {
+    min-height: 100vh;
+    padding-top: 12vh;
+}
+
+.vendorList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 2vh;
+}
+
+.vendorCard__name {
+    font-weight: 800;
+    font-size: 24px;
+    margin-top: 1vh;
+}
+
+.vendorCard__location {
+    color: grey;
+    font-weight: 300;
+    font-size: 20px;
+}

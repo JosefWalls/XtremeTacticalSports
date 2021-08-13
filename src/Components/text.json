@@ -1,0 +1,30 @@
+{
+    "name":"XTS 301 Rubberized Pistol Grip",
+    "colors": [{"Black": "XTS 301"}],
+    "msrp":"$19.99",
+    "description":"he XTS-301  Pistol Grip is the perfect after-market grip for anyone's AR.",
+    "header_image":"url",
+    "images":["link 1", "link 2", "link 3"],
+    "category": "AR15 Parts & Accessories",
+    "sub_category":"Grips"
+}
+{
+    "name":"XTS-ADZ-PK ANODIZED PARTS KIT",
+    "colors": [{"Red": "XTS-ADZ-PKRD"},{"Blue": "XTS-ADZ-PKBL"},{"Purple": "XTS-ADZ-PKPP"},{"Bronze": "XTS-ADZ-PKBR"}],
+    "msrp":"$124.99",
+    "description":"All our XTS Anodized Small Parts in One Convenient Package.",
+    "header_image":"url",
+    "images":["link 1", "link 2", "link 3"],
+    "category": "AR15 Parts & Accessories",
+    "sub_category":"Anodized"
+}
+{
+    "name":"XTS-CH10 CHARGING HANDLE AR-10",
+    "colors": [{"Black": "XTS-CH10"}],
+    "msrp":"$29.99",
+    "description":"XTS-CH10 CHARGING HANDLE AR-10",
+    "header_image":"url",
+    "images":["link 1", "link 2", "link 3"],
+    "category": "AR Platform Parts & Accessories",
+    "sub_category":"Upper Parts"
+}

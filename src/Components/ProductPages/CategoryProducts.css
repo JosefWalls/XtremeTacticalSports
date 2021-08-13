@@ -1,0 +1,6 @@
+.categoryProducts {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: center;
+}

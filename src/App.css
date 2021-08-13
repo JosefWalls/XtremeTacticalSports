@@ -43,3 +43,45 @@ img {
   background: rgb(187, 0, 0);
   color: white;
 }
+
+input {
+  outline-width: 0;
+}
+
+#color_black {
+  background: black;
+}
+
+#color_blue {
+  background: blue;
+}
+
+#color_red {
+  background: red;
+}
+
+#color_purple {
+  background: purple;
+}
+
+#color_bronze {
+  background: brown;
+}
+
+#color_odg {
+  background: olivedrab;
+}
+
+#color_fde {
+  background: tan;
+}
+
+#color_orange {
+  background: orange;
+}
+
+button {
+  width: 50%;
+  border: none;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}

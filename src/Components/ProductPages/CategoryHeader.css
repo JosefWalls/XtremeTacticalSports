@@ -1,0 +1,13 @@
+.categoryHeader {
+    /* border: 1px solid red; */
+    width: 85vw;
+    background: black;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    padding-left: 2vw;
+}
+
+.categoryHeader header {
+    color: white;
+}

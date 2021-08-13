@@ -1,0 +1,36 @@
+.editProduct__modalInner {
+    display: flex;
+    flex-direction: row;
+}
+
+.editProduct__modalInner div {
+    width: 50%;
+}
+
+.editProduct__modalInner div:nth-child(2) {
+    border-left: 1px solid whitesmoke;
+    padding: 10px;
+}
+
+.editProduct__modalPictures img {
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    border: 1px solid whitesmoke;
+}
+
+.editProduct__modalInputs p{
+    font-weight: 800;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+.editProduct__modalInputs input {
+    width: 100%;
+}
+
+.editProduct__modalDescription {
+    height: 100%;
+    flex-wrap: wrap;
+    overflow: scroll;
+}

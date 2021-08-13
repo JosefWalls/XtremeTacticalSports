@@ -1,0 +1,9 @@
+.vendor__productModalGrid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.vendor__productModalGrid section {
+    border: 1px solid red;
+}

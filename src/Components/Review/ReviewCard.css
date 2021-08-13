@@ -1,0 +1,17 @@
+.reviewCard {
+    border-top:  1px solid rgb(0 0 0 / 0.2);;
+}
+
+#rating__star {
+    color: #f5951d;
+    font-size: 24px !important;
+}
+
+.reviewCard__rating {
+    display: flex;
+}
+
+.reviewCard__title {
+    font-weight: 800;
+    font-size: 24px;
+}

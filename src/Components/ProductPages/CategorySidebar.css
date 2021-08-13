@@ -1,0 +1,34 @@
+.categorySidebar {
+    border-right: 1px solid rgba(128, 128, 128, 0.192);
+    width: 15vw;
+    height: 100%;
+    padding: 1vw;
+    margin-top: 1vh;
+}
+
+.categorySidebar div {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.categorySidebar h2 {
+    font-weight: 400;
+    color: grey;
+    text-decoration: underline rgba(128, 128, 128, 0.192);
+}
+
+.categorySidebar__colors section {
+    /* background-color: black; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-evenly;
+
+}
+
+.categorySidebar__colors span {
+    width: 40%;
+    background: red;
+    height: 30px;
+    border-radius: 50%;
+    margin: 5px;
+}
